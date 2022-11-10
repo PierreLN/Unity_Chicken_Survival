@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ennemi
+  - Joueur
+  - Mur
+  - Oeuf
+  - OeufsVictoire
+  - Spawner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sol
+    uniqueID: 3606054191
+    locked: 0
+  - name: "d\xE9corations"
+    uniqueID: 3422169707
+    locked: 0
+  - name: Mur
+    uniqueID: 1243810901
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ciel
+    uniqueID: 3751545583
+    locked: 0
